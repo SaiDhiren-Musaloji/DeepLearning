@@ -11,7 +11,6 @@ Welcome to the repository for my deep learning coursework assignments! This repo
 5. **Prerequisites**
 6. **Usage**
 7. **Contributions**
-8. **License**
 
 ---
 
@@ -113,9 +112,4 @@ pip install -r requirements.txt
 
 Contributions are welcome! If you find any issues or want to enhance the content, feel free to create a pull request or open an issue.
 
----
-
-## 8. License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
